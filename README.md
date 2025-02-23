@@ -31,12 +31,12 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 
 💻 Rodando localmente
 
-Clone este repositório:
+## Clone este repositório:
 
-git clone https://github.com/olegarioojv/nlw-connect-full-stack.git
+git clone [https://github.com/olegarioojv/nlw-connect-full-stack.git]
 
 ## Acesse a pasta do projeto:
 
-cd nwl-connect
+## cd nwl-connect
 
-Abra o arquivo index.html em um navegador.
+##Abra o arquivo index.html em um navegador.
