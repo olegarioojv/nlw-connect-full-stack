@@ -29,14 +29,16 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 
 #🚀 Como Executar o Projeto
 
-##💻 Rodando localmente
+## 💻 Rodando localmente
 
 Clone este repositório:
+  
 ```
 git clone https://github.com/seu-usuario/nwl-connect.git
 ```
 
 ## Acesse a pasta do projeto:
+
 ```
 cd nwl-connect
 ```
