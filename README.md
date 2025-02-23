@@ -27,7 +27,10 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 ### 📸 Demonstração
 ![Image](https://github.com/user-attachments/assets/2205abee-445b-4901-8e77-fe4904060810)
 
-🚀 Como Executar o Projeto
+
+
+## 🚀 Como Executar o Projeto
+
 
 ## 💻 Rodando localmente
 
