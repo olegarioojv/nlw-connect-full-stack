@@ -29,7 +29,7 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 
 
 
-## 🚀 Como Executar o Projeto
+# 🚀 Como Executar o Projeto
 
 
 ## 💻 Rodando localmente
@@ -37,7 +37,7 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 Clone este repositório:
   
 ```
-git clone https://github.com/seu-usuario/nwl-connect.git
+git clone https://github.com/olegarioojv/nlw-connect-full-stack.git
 ```
 
 ## Acesse a pasta do projeto:
