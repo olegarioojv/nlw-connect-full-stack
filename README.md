@@ -43,7 +43,7 @@ git clone https://github.com/olegarioojv/nlw-connect-full-stack.git
 ## Acesse a pasta do projeto:
 
 ```
-cd nwl-connect
+cd nlw-connect-full-stack
 ```
 
 Abra o arquivo index.html em um navegador.
