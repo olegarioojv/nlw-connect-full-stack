@@ -26,4 +26,4 @@ O design do projeto segue um estilo moderno e responsivo, garantindo uma boa exp
 
 ### 📸 Demonstração
 
-(Adicione capturas de tela ou um GIF mostrando o funcionamento do projeto.)
+https://github.com/user-attachments/assets/1c866793-13ea-4dd5-8327-0d5520dd2553
